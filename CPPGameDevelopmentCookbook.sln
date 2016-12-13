@@ -67,6 +67,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DesignPatternSingleton", "D
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DesignPatternFactory", "DesignPatternFactory\DesignPatternFactory.vcxproj", "{E9F75A3E-089F-4498-9BAB-8FCF5F675377}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DesignPatternAbstractFactoryMethod", "DesignPatternAbstractFactoryMethod\DesignPatternAbstractFactoryMethod.vcxproj", "{E785FFAA-9F65-41E8-9B63-00B5F51FA240}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -331,6 +333,14 @@ Global
 		{E9F75A3E-089F-4498-9BAB-8FCF5F675377}.Release|x64.Build.0 = Release|x64
 		{E9F75A3E-089F-4498-9BAB-8FCF5F675377}.Release|x86.ActiveCfg = Release|Win32
 		{E9F75A3E-089F-4498-9BAB-8FCF5F675377}.Release|x86.Build.0 = Release|Win32
+		{E785FFAA-9F65-41E8-9B63-00B5F51FA240}.Debug|x64.ActiveCfg = Debug|x64
+		{E785FFAA-9F65-41E8-9B63-00B5F51FA240}.Debug|x64.Build.0 = Debug|x64
+		{E785FFAA-9F65-41E8-9B63-00B5F51FA240}.Debug|x86.ActiveCfg = Debug|Win32
+		{E785FFAA-9F65-41E8-9B63-00B5F51FA240}.Debug|x86.Build.0 = Debug|Win32
+		{E785FFAA-9F65-41E8-9B63-00B5F51FA240}.Release|x64.ActiveCfg = Release|x64
+		{E785FFAA-9F65-41E8-9B63-00B5F51FA240}.Release|x64.Build.0 = Release|x64
+		{E785FFAA-9F65-41E8-9B63-00B5F51FA240}.Release|x86.ActiveCfg = Release|Win32
+		{E785FFAA-9F65-41E8-9B63-00B5F51FA240}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
